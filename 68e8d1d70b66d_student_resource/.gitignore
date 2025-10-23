@@ -1,0 +1,14 @@
+# Ignore all jpg files in the images directory
+images/*.jpg
+
+# Ignore temporary files
+continue.txt
+new.txt
+plan.txt
+todo.txt
+
+# Ignore macOS metadata
+__MACOSX/
+
+# Ignore generated data files
+*.npz
